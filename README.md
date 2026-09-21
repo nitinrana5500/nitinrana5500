@@ -2,8 +2,8 @@
 <img
      src="ChatGPT Image Sep 21, 2026, 11_41_10 AM.png"
      width="1000">
-<h2>Hi 👋, I'm Nitin Rana</h2>
-<h4 align="center">Passionate Frontend Developer Crafting Elegant Web Experiences</h4>
+<h2 align="center">Hi 👋, I'm Nitin Rana</h2>
+<h3 align="center">Passionate Frontend Developer Crafting Elegant Web Experiences</h3>
 </div>
 
 <ul>
