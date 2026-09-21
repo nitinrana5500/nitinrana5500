@@ -1,21 +1,14 @@
 <div>
 <img
-     src="https://raw.githubusercontent.com/MishanPoudel/MishanPoudel/main/meow.jpg"
+     src="ChatGPT Image Sep 21, 2026, 11_41_10 AM.png"
      width="1000">
 <h2>Hi 👋, I'm Nitin Rana</h2>
+<h4 align="center">Passionate Frontend Developer Crafting Elegant Web Experiences</h4>
 </div>
 
-<!--
-**nitinrana5500/nitinrana5500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+     <li>🤝 I’m looking for help with help me by following me 😁</li>
+     <li>👨‍💻 Check out all my projects at My Portfolio</li>
+     <li>💬 Feel free to ask me about React, or Frontend Development</li>
+     <li>📫 How to reach me: nitinrana5500@gmail.com</li>
+</ul>
