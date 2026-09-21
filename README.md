@@ -1,4 +1,9 @@
-## Hi there 👋
+<div style="display: flex; flex-direction: column;">
+<img style="display: block;" align="right"
+     src="https://raw.githubusercontent.com/MishanPoudel/MishanPoudel/main/meow.jpg"
+     width="350">
+<h2>Hi 👋, I'm Nitin Rana</h2>
+</div>
 
 <!--
 **nitinrana5500/nitinrana5500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
