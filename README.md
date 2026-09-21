@@ -6,7 +6,8 @@
 <h3 align="center">Passionate Frontend Developer Crafting Elegant Web Experiences</h3>
 </div>
 
-<ul>
+<ul>     
+     <li>🌱 I’m currently learning Backend Development</li>
      <li>🤝 I’m looking for help with help me by following me 😁</li>
      <li>👨‍💻 Check out all my projects at My Portfolio</li>
      <li>💬 Feel free to ask me about React, or Frontend Development</li>
