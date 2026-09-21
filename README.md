@@ -1,7 +1,7 @@
-<div style="display: flex; flex-direction: column;">
-<img style="display: block;" align="right"
+<div>
+<img
      src="https://raw.githubusercontent.com/MishanPoudel/MishanPoudel/main/meow.jpg"
-     width="350">
+     width="1000">
 <h2>Hi 👋, I'm Nitin Rana</h2>
 </div>
 
