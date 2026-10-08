@@ -1,6 +1,6 @@
 <div>
 <img
-     src="ChatGPT Image Sep 21, 2026, 11_41_10 AM.png"
+     src="banner.png"
      width="1000">
 <h2 align="center">Hi 👋, I'm Nitin Rana</h2>
 <h3 align="center">Passionate Frontend Developer Crafting Elegant Web Experiences</h3>
